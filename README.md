@@ -1,3 +1,3 @@
 # test
 
-![](https://pricing-image.gitfundme.com/)
+[![Build Status](https://pricing-image.gitfundme.com/)]()
