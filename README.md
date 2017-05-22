@@ -1,4 +1,3 @@
 # test
 
-
-![GitFundMe Pricing Chart](https://pricing-image.gitfundme.com/)
+<img src="https://pricing-image.gitfundme.com/">
