@@ -1,3 +1,3 @@
 # test
 
-<img src="https://pricing-image.gitfundme.com/">
+[[https://pricing-image.gitfundme.com/]]
